@@ -12,11 +12,11 @@ Through out the project, we chose Pune City's City Bus as example.
 For understanding demands and requirements, we contacted with the planning authorities of PMPML City Bus. 
 
 ## Forecast 
-pause at 2:45 - there is a drop in demand by 70% to 80%  
+ there is a drop in demand by 70% to 80%  
 
 This demand is gradually increassing. 
 
-pause at 2:55 - we forecasted the increasing demand to predict the future loads. 
+we forecasted the increasing demand to predict the future loads. 
  
 
 ## dummy data 
